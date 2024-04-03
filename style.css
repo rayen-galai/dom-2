@@ -1,0 +1,16 @@
+.conteneur h1{
+    display: flex;
+    justify-content: center;
+}
+
+#color-box{
+    background-color: blue ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;}
+ #change-color-btn{
+        
+        border-color: black ;
+        
+} 
